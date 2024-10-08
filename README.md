@@ -34,3 +34,7 @@
 ![JetpackCompose](https://img.shields.io/badge/Jetpack_Compose-7XZ098?style=for-the-badge&logo=JetpackCompose&logoColor=blue)
 ![MVVM](https://img.shields.io/badge/MVVM-456781?style=for-the-badge&logo=MVVM&logoColor=blue)
 ![DI](https://img.shields.io/badge/DI-8A2BE2?style=for-the-badge&logo=DI&logoColor=white)
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=C00lness&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
