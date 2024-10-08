@@ -26,3 +26,11 @@
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :mailbox:How to reach me: https://t.me/Eisingaliev
+
+### :hammer_and_wrench: Languages and Tools :
+
+![Kotlin](https://img.shields.io/badge/Kotlin-F7DF1E?style=for-the-badge&logo=Kotlin&logoColor=black)
+![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=Java&logoColor=blue)
+![JetpackCompose](https://img.shields.io/badge/Jetpack_Compose-7XZ098?style=for-the-badge&logo=JetpackCompose&logoColor=blue)
+![MVVM](https://img.shields.io/badge/MVVM-456781?style=for-the-badge&logo=MVVM&logoColor=blue)
+![DI](https://img.shields.io/badge/DI-8A2BE2?style=for-the-badge&logo=DI&logoColor=white)
