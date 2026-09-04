@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <a href=https://www.linkedin.com/in/ermekisingaliev/>
+  <a href="https://www.linkedin.com/in/ermekisingaliev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -21,36 +21,50 @@
 
 ### 👨‍💻: About Me :
 
-- :telescope: I’m working as a Software Engineer, specializing in **mobile development** (Android) and **backend development** with Java Spring.
+- 🔭 I'm a Software Engineer specializing in **mobile development** (Android) and **backend development** (Java Spring & .NET).
 
-- :seedling: I design and build RESTful APIs, microservices, and scalable backend architectures using the Spring ecosystem.
+- 🌱 I design and build RESTful APIs, microservices, and scalable backend architectures using Spring Boot and ASP.NET Core.
 
-- :zap: In my free time, I solve problems on Leetcode, read tech articles, and explore modern software design patterns.
+- 🚀 Currently working on IoT systems for industrial equipment, migrating backend services from Java to .NET.
 
-- :mailbox: How to reach me: https://t.me/Eisingaliev
+- ⚡ In my free time, I solve problems on Codewars, read tech articles, and explore modern software design patterns.
 
-### :hammer_and_wrench: Languages and Tools :
+- 📫 How to reach me: https://t.me/Eisingaliev
+
+### ️ Languages and Tools :
 
 #### Mobile Development (Android)
-![Kotlin](https://img.shields.io/badge/Kotlin-F7DF1E?style=for-the-badge&logo=Kotlin&logoColor=black)
-![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=Java&logoColor=blue)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-7XZ098?style=for-the-badge&logo=JetpackCompose&logoColor=blue)
-![MVVM](https://img.shields.io/badge/MVVM-456781?style=for-the-badge&logo=MVVM&logoColor=blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![NDK/JNI](https://img.shields.io/badge/NDK-61DAFB?style=for-the-badge&logo=android&logoColor=white)
 
 #### Backend Development (Java Spring)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-#### Other Tools
+#### Backend Development (.NET)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-CC0000?style=for-the-badge&logo=entity-framework&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+#### Infrastructure & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=C00lness&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
